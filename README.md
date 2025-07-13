@@ -1,4 +1,60 @@
-## Hi there 👋
+## 👋 Hi there! I'm Edwin Shibu Mathew
+
+🎓 I'm a third-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering. I’m passionate about building efficient and impactful software, and I enjoy diving deep into programming languages, full-stack development, and intelligent systems.
+
+---
+
+## 💼 About Me
+
+🔹 Currently interning at **Oracle**, where I'm contributing to cutting-edge **Generative AI** projects. This role is helping me grow in problem-solving, collaboration, and scalable software design.
+
+🔹 I’ve honed my skills in languages and frameworks such as **Java**, **JavaScript**, **React**, **Python**, **C++**, **HTML**, **CSS**, **Node.js**, and **MongoDB**.
+
+🔹 I regularly build personal projects and post them on GitHub — these include web apps, games, and data-driven systems. My work reflects my curiosity, creativity, and drive to innovate.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 💬 Building a real-time chat app with MERN, Socket.io, JWT auth, Zustand, and clean error handling
+  
+- 🎵 A full-stack music streaming app (React + Node.js + MySQL)
+
+- 📅 Building a smart task scheduler with ASP.NET Core, FullCalendar, JWT auth, EF Core, and drag-and-drop calendar UI
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages & Frameworks**  
+`Java` | `Python` | `C++` | `JavaScript` | `Node.js` | `Express` | `React` | `HTML/CSS` | `PHP`
+
+**Databases**  
+`MySQL` | `MongoDB` | `PostgreSQL`
+
+**Tools & Platforms**  
+`Git` | `GitHub` | `VS Code` | `Pycharm` | `Intellij` | `Postman` | `Linux`
+
+---
+
+## 🌱 Goals for 2025
+
+- 🔧 Master **.NET** and **C#**
+- ☁️ Deepen knowledge in **cloud computing** and **DevOps**
+- 🧩 Contribute to **open-source projects**
+- 💼 Secure a summer internship in **software engineering** or in related fields
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-shibu-mathew/)  
+📧 Email: `iedwini777@gmail.com`
+
+---
+
+> "Talk is Cheap. Show me the code" – Linus Torvald
+
 
 <!--
 **EdwinShibuMathew/EdwinShibuMathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
