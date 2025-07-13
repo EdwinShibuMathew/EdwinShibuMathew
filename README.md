@@ -1,12 +1,12 @@
 ## 👋 Hi there! I'm Edwin Shibu Mathew
 
-🎓 I'm a third-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering. I’m passionate about building efficient and impactful software, and I enjoy diving deep into programming languages, full-stack development, and intelligent systems.
+🎓 I'm a second-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering . My academic journey is fueled by a strong passion for software engineering, refined through practical experience with a wide range of programming languages and technologies including Java, JavaScript, HTML, CSS, React, C++, Python, Node.js, and MongoDB.
 
 ---
 
 ## 💼 About Me
 
-🔹 Currently interning at **Oracle**, where I'm contributing to cutting-edge **Generative AI** projects. This role is helping me grow in problem-solving, collaboration, and scalable software design.
+🔹 Currently looking for a 2026 SWE Internship in Ireland or remote
 
 🔹 I’ve honed my skills in languages and frameworks such as **Java**, **JavaScript**, **React**, **Python**, **C++**, **HTML**, **CSS**, **Node.js**, and **MongoDB**.
 
