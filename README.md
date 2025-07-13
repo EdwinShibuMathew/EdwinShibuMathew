@@ -10,7 +10,7 @@
 
 🔹 I’ve honed my skills in languages and frameworks such as **Java**, **JavaScript**, **React**, **Python**, **C++**, **HTML**, **CSS**, **Node.js**, and **MongoDB**.
 
-🔹 I regularly build personal projects and post them on GitHub — these include web apps, games, and data-driven systems. My work reflects my curiosity, creativity, and drive to innovate.
+🔹 I regularly build personal projects and post them on GitHub, these include web apps, games, and data-driven systems. My work reflects my curiosity, creativity, and drive to innovate.
 
 ---
 
