@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Edwin Shibu Mathew
 
-🎓 I'm a second-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering . My academic journey is fueled by a strong passion for software engineering, refined through practical experience with a wide range of programming languages and technologies including Java, JavaScript, Dart, HTML, CSS, React, Flutter, C++, Python, Node.js, and MongoDB.
+🎓 I'm a third-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering . My academic journey is fueled by a strong passion for software engineering, refined through practical experience with a wide range of programming languages and technologies including Java, JavaScript, Dart, HTML, CSS, React, Flutter, C++, Python, Node.js, and MongoDB.
 
 ---
 
