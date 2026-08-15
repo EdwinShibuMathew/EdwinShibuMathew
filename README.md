@@ -1,72 +1,44 @@
-## 👋 Hi there! I'm Edwin Shibu Mathew
+Final-year Computer Science and Software Engineering student at Maynooth University | Former Software Engineering Intern at Mastercard | Interested in backend and full‑stack engineering
 
-🎓 I'm a third-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering . My academic journey is fueled by a strong passion for software engineering, refined through practical experience with a wide range of programming languages and technologies including Java, JavaScript, Dart, HTML, CSS, React, Flutter, C++, Python, Node.js, and MongoDB.
+Introduction
+I’m Edwin Shibu Mathew. I’m entering my final year of the B.Sc. Computer Science and Software Engineering at Maynooth University. I completed a Software Engineering Internship at Mastercard in Dublin (Jan–Jul 2026) and am seeking 2027 graduate software‑engineering roles and suitable internships, particularly in Ireland.
 
----
+About Me
+I build and improve backend and full‑stack systems, prioritising clear code, reliable tests, and collaborative engineering practices. I work well in Agile teams, participate in code reviews, and aim to make codebases easier to maintain and evolve. Evidence of my approach is in the code I write and the workflows I follow.
 
-## 💼 About Me
+Mastercard Experience
+Software Engineering Intern — Mastercard, Dublin (Jan–Jul 2026)
+- Worked within an engineering team supporting corporate virtual‑card software.
+- Practical experience with Java and Spring‑based backend development.
+- Used Mockito for unit testing, Git for version control, and Jenkins in CI workflows.
+- Took part in code reviews and Agile development practices. (Confidential Mastercard details are intentionally omitted.)
 
-🔹 Currently looking for a 2026 SWE Internship in Ireland or remote
+Featured Projects
+Real‑Time Chat Application (MERN + Socket.IO)
+- Developing and improving a MERN‑stack chat application with Socket.IO for real‑time messaging.
+- Implements JWT authentication, client state management with Zustand, and structured error handling to keep message flow predictable.
 
-🔹 I’ve honed my skills in languages and frameworks such as **Java**, **JavaScript**, **React**, **Flutter**, **Dart**, **Python**, **C++**, **HTML**, **CSS**, **Node.js**, and **MongoDB**.
+Full‑Stack Music Streaming Application (React, Node.js, MySQL)
+- Full‑stack repository with a React front end, a Node.js backend, and MySQL for data storage.
+- Repository shows API code, front‑end integration, and the database schema used in development.
 
-🔹 I regularly build personal projects and post them on GitHub, these include web apps, games, and data-driven systems. My work reflects my curiosity, creativity, and drive to innovate.
+Technical Skills
+Primary focus
+- Java, Spring, backend development, REST APIs, unit testing (Mockito), Git-based workflows
+- JavaScript (React, Node.js), SQL (MySQL, PostgreSQL)
 
----
+Additional experience
+- Languages: Python, C++, C#, Dart
+- Front-end & mobile: React, HTML, CSS, Flutter
+- Frameworks & tools: Express, ASP.NET Core, MongoDB, Firebase Authentication
+- Dev tooling: Docker, Linux/WSL, Jenkins, Postman, VS Code, IntelliJ IDEA, PyCharm
 
-## 🚀 What I'm Currently Working On
+Currently Learning
+- Strengthening Java and backend development, data structures & algorithms, and system design
+- Practical tooling: Docker, Linux, and cloud development for deploying and operating services
 
-- 💬 Building a real-time chat app with MERN, Socket.io, JWT auth, Zustand, and clean error handling
-  
-- 🎵 A full-stack music streaming app (React + Node.js + MySQL)
+Contact
+- LinkedIn: https://www.linkedin.com/in/edwin-shibu-mathew/
+- Email: [iedwini777@gmail.com](mailto:iedwini777@gmail.com)
 
-- 📅 Building a smart task scheduler with ASP.NET Core, FullCalendar, JWT auth, EF Core, and drag-and-drop calendar UI
-
----
-
-## 🧠 Skills & Tools
-
-**Languages & Frameworks**  
-`Java` | `Python` | `C++` | `JavaScript` | `Node.js` | `Express` | `React` | `HTML/CSS` | `PHP` | `Dart`| `Flutter`
-
-**Databases**  
-`MySQL` | `MongoDB` | `PostgreSQL`| `Firebase Authentication`
-
-**Tools & Platforms**  
-`Git` | `GitHub` | `VS Code` | `Pycharm` | `Intellij` | `Postman` | `Linux` | `Docker`
-
----
-
-## 🌱 Goals for 2025
-
-- 🔧 Master **.NET** and **C#**
-- ☁️ Deepen knowledge in **cloud computing**, **cross-platform / mobile applications**  and **DevOps**
-- 🧩 Contribute to **open-source projects**
-- 💼 Secure a summer internship in **software engineering / developer** or in related fields
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-shibu-mathew/)  
-📧 Email: `iedwini777@gmail.com`
-
----
-
-> "Talk is Cheap. Show me the code" – Linus Torvald
-
-
-<!--
-**EdwinShibuMathew/EdwinShibuMathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you’re hiring for 2027 graduate roles or internships in backend/full‑stack engineering (particularly in Ireland), I’d welcome a conversation.
